@@ -1,1 +1,2 @@
 text information
+New information from branch 2
